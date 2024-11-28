@@ -1,4 +1,4 @@
-# Lost Saga Open Source  
+# Lost Saga Server Files Last Hero Karna  
 > ![Lost Saga Open Source](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgItO26uO3c7mtlTgE6jOje-2vA9KaUiveUEeBMuTAyn8MP-Rn3sPowLx_BjfHbng4GMwiPz-Tm_0wChsm0oRuEYzXUlljDPZZPysotH5r9WIebWujFeHcP1Z8dgHCgYPqtD1gZ7e3KY58uPu-B3K6qJkMkqKh2LMOWz6tIz-0XmdZ4HPNxuTUa8HB02jlt/s16000/LosaServer.png)  
 
 ## 📜 Disclaimer  
